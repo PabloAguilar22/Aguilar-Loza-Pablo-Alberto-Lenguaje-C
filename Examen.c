@@ -12,7 +12,7 @@ void main(){
     
     */
 
-    printf("Ingresa el valor de las abscisas, x, este debe de estar entre 0 y 9: ");
+    printf("Ingresa el valor en x, este debe de estar entre 0 y 9: ");
     scanf("%d", &x);
 
     if (x >=0 && x <=9)
