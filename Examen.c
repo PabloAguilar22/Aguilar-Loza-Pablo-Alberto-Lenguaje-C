@@ -6,9 +6,9 @@ void main(){
     int y;
     
     /* 
-            Alcoba 1                   Alcoba 2                     Alcoba 3                   WC                    Cocina                  Salón
-        Está entre 0<x<3            Está entre 0<x<3            Está entre 3<x<6        Está entre 0<x<2        Está entre 6<x<9        Está entre 3<x<9
-        Está entre 0<y<3            Está entre 5<y<7            Está entre 5<y<7        Está entre 3<y<5        Está entre 5<y<7        Está entre 0<y<5
+        Alcoba 1                   Alcoba 2                     Alcoba 3                   WC                    Cocina                  Salón
+    Está entre 0<x<3            Está entre 0<x<3            Está entre 3<x<6        Está entre 0<x<2        Está entre 6<x<9        Está entre 3<x<9
+    Está entre 0<y<3            Está entre 5<y<7            Está entre 5<y<7        Está entre 3<y<5        Está entre 5<y<7        Está entre 0<y<5
     */
 
     printf("Ingresa el valor de las abscisas, x, este debe de estar entre 0 y 9: ");
