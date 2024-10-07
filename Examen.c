@@ -14,7 +14,7 @@ void main(){
     printf("Ingresa el valor de las abscisas, x, este debe de estar entre 0 y 9: ");
     scanf("%d", &x);
 
-    if (x >=0 && x <=9 && y >=0 && y <=7 )
+    if (x >=0 && x <=9)
     {
         printf("Ingrese el valor en y, este debe de estar entre 0 y 7: ");
         scanf("%d", &y);
